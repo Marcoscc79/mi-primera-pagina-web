@@ -1,0 +1,33 @@
+/* * {
+    margin: 0;
+} */
+/* body {
+    background-image: url(/img/programador7.png);
+    background-repeat: no-repeat;
+} */
+h1, h3 {
+    color: blue;
+    background-color: burlywood;
+}
+
+h2 {
+    background-color: aquamarine;
+    font-size: 50px;
+    /* text-align: center; */
+    display: inline-block;
+}
+.estilo-propio {
+    color: blueviolet;
+}
+.contenedor {
+    margin: auto;
+    width: 50%;
+}
+
+a {
+    /* display: block; */
+    background-color: cornflowerblue;
+}
+button { 
+    padding: 50px;
+ }
